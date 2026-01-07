@@ -1,0 +1,11 @@
+.:
+assets
+rakenne.txt
+README.md
+src
+
+./assets:
+styles.css
+
+./src:
+index.html
